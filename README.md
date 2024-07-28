@@ -1,4 +1,4 @@
-*Hello!* I'm [Alaa Alghwiri](https://alaaalghwiri.quarto.pub/portfolio/), Senior Data Scientist at Center for Population Health Management, University of Pittsburgh
+*Hello!* I'm [Alaa Alghwiri](https://alaaalghwiri.quarto.pub/portfolio/), Senior Data Scientist at the Center for Population Health Management, University of Pittsburgh
 
 ### **About Me**
 
